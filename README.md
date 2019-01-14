@@ -1,2 +1,2 @@
-# Tick-Tack-Toe
-A game in reactjs
+# ReactJs-SPA
+A single page application in reactjs
